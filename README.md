@@ -1,6 +1,2 @@
 "# tutorial_code_script" 
-"# tutorial_code_script" 
-"# tutorial_code_script" 
-"# tutorial_code_script" 
-"# tutorial_code_script" 
-"# tutorial_code_script" 
+
